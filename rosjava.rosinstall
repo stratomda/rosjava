@@ -9,7 +9,7 @@
 {'git': {'local-name': 'rosjava_bootstrap', 'version': 'indigo', 'uri':'https://github.com/rosjava/rosjava_bootstrap'}},
 {'git': {'local-name': 'rosjava_test_msgs', 'version': 'indigo', 'uri':'https://github.com/rosjava/rosjava_test_msgs.git'}},
 {'git': {'local-name': 'rosjava_messages', 'version': 'indigo', 'uri':'https://github.com/rosjava/rosjava_messages'}},
-{'git': {'local-name': 'rosjava_core', 'version': 'indigo', 'uri':'https://github.com/rosjava/rosjava_core'}},
+{'git': {'local-name': 'rosjava_core', 'version': 'indigo', 'uri':'https://github.com/stratomda/rosjava_core'}},
 {'git': {'local-name': 'rosjava_extras', 'version': 'indigo', 'uri':'https://github.com/rosjava/rosjava_extras'}},
 {'git': {'local-name': 'zeroconf_jmdns_suite', 'version': 'indigo', 'uri':'https://github.com/rosjava/zeroconf_jmdns_suite'}},
 {'git': {'local-name': 'rosjava', 'version': 'indigo', 'uri':'https://github.com/rosjava/rosjava.git'}},
