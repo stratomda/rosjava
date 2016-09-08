@@ -18,5 +18,6 @@
 # Temporary requirements
 #   Till 1.11 is released - http://www.ros.org/debbuild/indigo.html?q=ros_comm_msgs
 {'git': {'local-name': 'ros_comm_msgs', 'version': 'indigo-devel', 'uri':'https://github.com/ros/ros_comm_msgs.git'}},
-{'git': {'local-name': 'xrpmove_msgs', 'version': 'master', 'uri':'http://fs2/Bonobo.Git.Server/xrpmove_msgs.git'}},
+{'git': {'local-name': 'stratom_msgs', 'version': 'master', 'uri':'http://fs2/Bonobo.Git.Server/stratom_msgs.git'}},
+{'git': {'local-name': 'robotarch_msgs', 'version': 'master', 'uri':'http://fs2/Bonobo.Git.Server/rosc-robotarch-msgs.git'}},
 ]
