@@ -4,10 +4,12 @@
 {'git': {'local-name': 'rosjava_build_tools', 'version': 'indigo', 'uri':'https://github.com/rosjava/rosjava_build_tools.git'}},
 {'git': {'local-name': 'rosjava_bootstrap', 'version': 'indigo', 'uri':'https://github.com/rosjava/rosjava_bootstrap.git'}},
 {'git': {'local-name': 'genjava', 'version': 'indigo', 'uri':'https://github.com/rosjava/genjava.git'}},
-{'git': {'local-name': 'rosjava_messages', 'version': 'indigo', 'uri':'https://github.com/stratomda/rosjava_messages.git'}},
+{'git': {'local-name': 'rosjava_messages', 'version': 'indigo-devel', 'uri':'https://github.com/stratomda/rosjava_messages.git'}},
 
 #   Till map_store update is released...or replaced with world_canvas_msgs
 {'git': {'local-name': 'map_store', 'version': 'hydro-devel', 'uri':'https://github.com/stonier/map_store.git'}},
-{'git': {'local-name': 'xrpmove_msgs', 'version': 'master', 'uri':'http://fs2/Bonobo.Git.Server/xrpmove_msgs.git'}},
+{'git': {'local-name': 'stratom_msgs', 'version': 'master', 'uri':'http://fs2/Bonobo.Git.Server/stratom_msgs.git'}},
+{'git': {'local-name': 'robotarch_msgs', 'version': 'master', 'uri':'http://fs2/Bonobo.Git.Server/rosc-robotarch-msgs.git'}},
+{'git': {'local-name': 'stratom_debug_msgs', 'version': 'master', 'uri':'http://fs2/Bonobo.Git.Server/stratom_debug_msgs.git'}},
 ]
 
